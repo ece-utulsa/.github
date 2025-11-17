@@ -1,11 +1,7 @@
 # [Organization Name]
 
+Welcome to the Utulsa ECE Github.
 
-## 🌟 Featured Repositories
+Here you will find boiler plate templates for our labs and some student projects.
 
-| Repository | Description | Stars | Language |
-|------------|-------------|-------|----------|
-| [![repo-name](https://utulsa.edu)](https://utulsa.edu) | Short description | ![Stars](https://utulsa.edu) | ![Language](https://utulsa.edu) |
-| Add more rows as needed... |
-
-> See all repositories → https://github.com/orgs/your-org/repositories
+For more infromation about our department pleas visit the [Utulsa Electrical and Computer Engineering page](https://utulsa.edu/academics/engineering-computer-science/academics/departments/electrical-computer-engineering/)
