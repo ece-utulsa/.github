@@ -1,4 +1,4 @@
-# [Organization Name]
+# Electrical & Computer Engineering
 
 Welcome to the Utulsa ECE Github.
 
