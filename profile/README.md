@@ -1,3 +1,6 @@
+
+![Banner](images/TU_banner.png)
+
 # Electrical & Computer Engineering
 
 Welcome to the UTulsa ECE GitHub.
