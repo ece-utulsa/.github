@@ -1,5 +1,5 @@
 
-![Banner](images/TU_banner.png)
+![Banner](/images/TU_banner.png)
 
 # Electrical & Computer Engineering
 
