@@ -1,5 +1,6 @@
 
 ![Banner](/images/TU_banner.png)
+<!-- https://utulsa.mediavalet.com/portals/ECS  -->
 
 # Electrical & Computer Engineering
 
