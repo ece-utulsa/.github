@@ -9,3 +9,7 @@ Welcome to the UTulsa ECE GitHub.
 Here you will find boilerplate templates for our labs and some student projects.
 
 For more information about our department please visit the  [Utulsa Electrical and Computer Engineering page](https://utulsa.edu/academics/engineering-computer-science/academics/departments/electrical-computer-engineering/)
+
+## STUDENTS [JOIN HERE](https://forms.cloud.microsoft/r/iPYK9sjfeE)
+(Be sure you are signed in to your Utulsa account)
+
